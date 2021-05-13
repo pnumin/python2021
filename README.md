@@ -27,7 +27,7 @@
 * [20527:조소진](https://github.com/jessie1235/asdf)
 * [20611:배채언](https://github.com/chaeeon/python2021)
 * [20625:최은영](https://github.com/choi-eun-young/-)
-* [20626:최지은](ttps://github.com/first24722/first24722)
+* [20626:최지은](https://github.com/first24722/first24722)
  
 
 
