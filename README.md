@@ -1,3 +1,13 @@
+# (김경민)파이썬 공부하기
+## 05.13 
++ 입력 : input() => 정수(int), 실수(float) 입력할 때 형변환 하기
++ 출력 : print() => f-string
++ if문 
+  + if ... : 명령문 elif ... : 명령문 else : 
++ for문 :반복문 => range()
++ while문 
+
+
 # python2021 : 언양고(05.13)
 * [10102:권수진](https://github.com/sujin1111/sujin)
 * [10113:신다희](https://github.com/shindahee10113/-)
