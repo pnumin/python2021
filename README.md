@@ -1,4 +1,5 @@
 # (김경민)파이썬 공부하기
+## 설문 : https://forms.gle/nQsQE42CffA2GNeSA
 ## 05.14 (python02.ipynb)
 + 컬렉션 자료형 : 순서있는지, 없는지 
 + 문자열 (str) : 문자들의 모임
